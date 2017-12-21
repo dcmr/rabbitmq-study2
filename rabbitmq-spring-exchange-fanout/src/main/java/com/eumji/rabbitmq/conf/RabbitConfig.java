@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
  * 是不需要定义queue的名称的
  * FILE: com.eumji.rabbitmq.conf.RabbitConfig.java
  * MOTTO:  不积跬步无以至千里,不积小流无以至千里
- * AUTHOR: EumJi
+ * AUTHOR: iamzken
  * DATE: 2017/5/18
  * TIME: 12:16
  */

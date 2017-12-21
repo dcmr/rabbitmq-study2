@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 /**
  * FILE: com.eumji.rabbitmq.vo.TutorialReseiver.java
  * MOTTO:  不积跬步无以至千里,不积小流无以至千里
- * AUTHOR: EumJi
+ * AUTHOR: iamzken
  * DATE: 2017/5/17
  * TIME: 20:52
  */

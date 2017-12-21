@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * FILE: com.eumji.rabbitmq.conf.RabbitConfig.java
  * MOTTO:  不积跬步无以至千里,不积小流无以至千里
- * AUTHOR: EumJi
+ * AUTHOR: iamzken
  * DATE: 2017/5/18
  * TIME: 14:42
  */

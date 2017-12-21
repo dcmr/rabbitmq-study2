@@ -11,7 +11,7 @@ import java.util.concurrent.TimeoutException;
  * 消费者 --消息的接受者
  * FILE: com.eumji.rabbitmq.Customer.java
  * MOTTO:  不积跬步无以至千里,不积小流无以至千里
- * AUTHOR: EumJi
+ * AUTHOR: iamzken
  * DATE: 2017/5/16
  * TIME: 10:02
  */
