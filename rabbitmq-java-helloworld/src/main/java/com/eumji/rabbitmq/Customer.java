@@ -12,7 +12,7 @@ import java.util.concurrent.TimeoutException;
  * FILE: com.eumji.rabbitmq.Customer.java
  * MOTTO:  不积跬步无以至千里,不积小流无以至千里
  * AUTHOR: iamzken
- * DATE: 2017/5/16
+ * DATE: 2017/12/21
  * TIME: 10:02
  */
 public class Customer {
